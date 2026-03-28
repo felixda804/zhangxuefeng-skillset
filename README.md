@@ -2,26 +2,6 @@
 
 <div align="center">
 
-<!--
-  张雪峰先生纪念图标
-  1984.11.28 — 2026.03.24
-  麦克风：他用声音打破信息壁垒
-  光晕向外扩散：知识向普通家庭传递
--->
-
-<svg width="120" height="140" viewBox="0 0 120 140" xmlns="http://www.w3.org/2000/svg">
-  <circle cx="60" cy="55" r="48" fill="none" stroke="#888" stroke-width="0.5" stroke-dasharray="3,4" opacity="0.4"/>
-  <circle cx="60" cy="55" r="38" fill="none" stroke="#888" stroke-width="0.5" stroke-dasharray="2,3" opacity="0.3"/>
-  <rect x="47" y="18" width="26" height="40" rx="13" fill="none" stroke="#333" stroke-width="2.5"/>
-  <line x1="47" y1="30" x2="73" y2="30" stroke="#555" stroke-width="0.8" opacity="0.6"/>
-  <line x1="47" y1="38" x2="73" y2="38" stroke="#555" stroke-width="0.8" opacity="0.6"/>
-  <line x1="47" y1="46" x2="73" y2="46" stroke="#555" stroke-width="0.8" opacity="0.6"/>
-  <path d="M 36 52 Q 36 80 60 80 Q 84 80 84 52" fill="none" stroke="#333" stroke-width="2.5"/>
-  <line x1="60" y1="80" x2="60" y2="96" stroke="#333" stroke-width="2.5"/>
-  <line x1="42" y1="96" x2="78" y2="96" stroke="#333" stroke-width="2.5" stroke-linecap="round"/>
-  <text x="60" y="120" text-anchor="middle" font-family="serif" font-size="9" fill="#666">1984 — 2026</text>
-</svg>
-
 **张雪峰 · Zhang Xuefeng**
 
 *1984年11月28日 — 2026年3月24日*
