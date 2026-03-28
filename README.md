@@ -75,7 +75,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/zhangxuefeng-skillset.git
+git clone https://github.com/Eric-Yibo-Shen/zhangxuefeng-skillset.git
 cd zhangxuefeng-skillset
 
 # 2. 安装到 OpenClaw
