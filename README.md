@@ -85,7 +85,7 @@ openclaw skills list
 
 ### 国内下载
 
-如果网络不畅，可以通过[Gitee 页面](https://gitee.com/ericsam/zhangxuefeng-skillset)下载
+如果网络不畅，可以通过[Gitee 页面](https://gitee.com/ericsam/zhangxuefeng-skillset)下载。
 
 ---
 
@@ -159,6 +159,10 @@ zhangxuefeng-skillset/
 > 二维码定期更新。如已过期，请提 [Issue](../../issues) 或在现有群中 @管理员获取新码。
 
 </div>
+
+**tg群：**
+
+[tg链接](https://t.me/+pU5F4EpZoLFkNTEx)
 
 ---
 
