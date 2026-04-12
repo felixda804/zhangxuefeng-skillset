@@ -82,6 +82,11 @@ openclaw skills list
 
 将 `knowledge/` 下所有 `.md` 文件导入你的RAG系统，使用 [`prompts/system_prompt.md`](prompts/system_prompt.md) 作为系统提示词。
 
+
+### 国内下载
+
+如果网络不畅，可以通过[Gitee 页面](https://gitee.com/ericsam/zhangxuefeng-skillset)下载
+
 ---
 
 ## 项目结构
