@@ -17,6 +17,7 @@
 [![License: MIT](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE-CODE)
 [![OpenClaw Skills](https://img.shields.io/badge/OpenClaw-Skills%20Compatible-blue.svg)](https://docs.openclaw.ai/skills)
 [![WeChat Ready](https://img.shields.io/badge/WeChat-Ready-07C160.svg)](#部署到微信)
+[![ClawHub](https://img.shields.io/badge/ClawHub-已发布-orange.svg)](https://clawhub.ai/eric-yibo-shen/zhangxuefeng)
 [![贡献欢迎](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -41,10 +42,10 @@
 ### 方式零：一键安装到 Claude Code（最快）
 
 ```bash
-npx skills add Eric-Yibo-Shen/zhangxuefeng-skillset
+npx skills add eric-yibo-shen/zhangxuefeng
 ```
 
-安装后在 Claude Code 中直接调用 `/gaokao-mentor` 即可对话。
+或访问 [ClawHub 页面](https://clawhub.ai/eric-yibo-shen/zhangxuefeng) 安装。安装后在 Claude Code 中直接调用 `/gaokao-mentor` 即可对话。
 
 ### 方式一：直接阅读知识库
 
