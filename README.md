@@ -90,6 +90,7 @@ openclaw skills list
 ```
 zhangxuefeng-skillset/
 ├── README.md
+├── SKILL.md                     # npx skills 可直接添加
 ├── CONTRIBUTING.md
 ├── LICENSE                      # CC BY 4.0（知识内容）
 ├── LICENSE-CODE                 # MIT（代码部分）
