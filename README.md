@@ -18,9 +18,23 @@
 [![OpenClaw Skills](https://img.shields.io/badge/OpenClaw-Skills%20Compatible-blue.svg)](https://docs.openclaw.ai/skills)
 [![WeChat Ready](https://img.shields.io/badge/WeChat-Ready-07C160.svg)](#部署到微信)
 [![ClawHub](https://img.shields.io/badge/ClawHub-已发布-orange.svg)](https://clawhub.ai/eric-yibo-shen/zhangxuefeng)
+[![扣子技能](https://img.shields.io/badge/扣子-技能商店已上架-blue.svg)](https://www.coze.cn/skills?skill_share_pid=7627814441916301347)
 [![贡献欢迎](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
+
+---
+
+## 公开部署 · 立即体验
+
+无需搭建，直接使用：
+
+| 平台 | 入口 | 特点 |
+|------|------|------|
+| **扣子 Web Agent** | [立即体验](https://code.coze.cn/web-sdk/7627816552003321883) | RAG融合，口吻还原更细腻，粒度最高 |
+| **扣子技能商店** | [一键添加](https://www.coze.cn/skills?skill_share_pid=7627814441916301347) | 官方技能，接入扣子Bot零配置 |
+| **Claude Code** | `npx skills add eric-yibo-shen/zhangxuefeng` | 本地运行，开发者首选 |
+| **豆包多Agent工作流** | 即将上线 | 多智能体协作，更强的志愿分析能力 |
 
 ---
 
